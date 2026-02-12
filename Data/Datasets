@@ -1,1 +1,10 @@
-3 Dataset files with info related to Flight, Passenger, and Ticket will be uploaded
+Datasets Used:
+1. Flight Information:
+Fight_Information contains details about flights, including FlightID, FlightNumber, Airline, Destination, and Status.
+2. Passenger Information:
+Passenger_Information contains details about passengers, including PassengerID, FlightID, and SeatNumber.
+3. Ticket Information:
+Ticket_Information contains details about ticket bookings, including TicketID, FlightID, and BookingStatus.
+-------------
+The primary objective of this project is to analyze and visualize the airline data to gain insights into flight
+operations, passenger management, and ticketing.
